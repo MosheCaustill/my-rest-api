@@ -31,7 +31,7 @@ This is a server side for managing users and business cards with CRUD options
 npm i
 ```
 
-4. In the main folder change ".en.example" file to ".env" relevant connection info will be sent directly
+4. In the main folder change ".env.example" file to ".env" relevant connection info will be sent directly
 1. In order to seed users and cards run the following command in your terminal
 
 ```
@@ -42,11 +42,6 @@ relevant info will be logged to the terminal
 
 6. Fire up the app by running
 
-for development purpose might need to install nodemon as dev-dependencies
-
-```
-npm i nodemon -D
-```
 
 then run
 
